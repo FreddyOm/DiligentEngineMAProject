@@ -1,4 +1,15 @@
 # Diligent Engine <img src="https://github.com/DiligentGraphics/DiligentCore/blob/master/media/diligentgraphics-logo.png" height=64 align="right" valign="middle">
+**Fork of Diligent Engine by Frederik Omlor for a master's thesis in computer science at [Stuttgart Media University](https://www.hdm-stuttgart.de)**
+
+**Project data**
+The masters thesis project is currently contained inside the Mesh Shading Tutorial Project of the Diligent Engine project.
+The path to the project is ***.\DiligentSamples\Tutorials\Tutorial20_MeshShader\***.
+
+**Building**
+The project can be build using CMake. There are several submodules from *Diligent Engine* so use ```git submodule update --init --recursive``` to update all submodules from the root folder.
+For further building instructions consider the original information of Diligent Engine listed below.
+
+
 **A Modern Cross-Platform Low-Level 3D Graphics Library and Rendering Framework**
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=An%20easy-to-use%20cross-platform%20graphics%20library%20that%20takes%20full%20advantage%20of%20%23Direct3D12%20and%20%23VulkanAPI&url=https://github.com/DiligentGraphics/DiligentEngine)
 
