@@ -6,6 +6,7 @@ out
 .vscode
 *.vcxproj
 *.vcxproj.filters
+*.user
 *CMakeFiles
 CMakeCache.txt
 *.cmake
