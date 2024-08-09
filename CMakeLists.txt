@@ -44,7 +44,7 @@ if(${DILIGENT_BUILD_FX})
 endif()
 
 if(${DILIGENT_BUILD_SAMPLES})
-    add_subdirectory(DiligentSamples)
+    add_subdirectory(DiligentSamplesMAProject)
 endif()
 
 if(TARGET GLTFViewer)
